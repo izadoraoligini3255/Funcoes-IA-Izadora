@@ -1,5 +1,8 @@
-
-
+const caixaPrincipal = dococument.querySelector(".caixa-principal");
+const caixaPergunta = dococument.querySelector(".caixa-pergunta");
+const caixaAlternativa = dococument.querySelector(".caixa-alternativa");
+const caixaResultado = dococument.querySelector(".caixa-resultado");
+const textoResultado = 
 
 
 
